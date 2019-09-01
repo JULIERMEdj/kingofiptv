@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="AMC SD H264">
+    <display-name lang="pt">AMC SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet SD H264">
+    <display-name lang="pt">Animal Planet SD H264</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Arte! SD H264">
+    <display-name lang="pt">Arte! SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN SD H264">
+    <display-name lang="pt">AXN SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Baby TV SD H264">
+    <display-name lang="pt">Baby TV SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band News SD H264">
+    <display-name lang="pt">Band News SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band SD H264">
+    <display-name lang="pt">Band SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports SD H264">
+    <display-name lang="pt">Band Sports SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BIS SD H264">
+    <display-name lang="pt">BIS SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boomerang SD H264">
+    <display-name lang="pt">Boomerang SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Ca??o Nova SD H264">
+    <display-name lang="pt">Ca??o Nova SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal do Boi">
+    <display-name lang="pt">Canal do Boi</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil SD H264">
+    <display-name lang="pt">Canal Brasil SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Sony SD H264">
+    <display-name lang="pt">Canal Sony SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network SD H264">
+    <display-name lang="pt">Cartoon Network SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax SD H264">
+    <display-name lang="pt">Cinemax SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate SD H264">
+    <display-name lang="pt">Combate SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central SD H264">
+    <display-name lang="pt">Comedy Central SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel SD H264">
+    <display-name lang="pt">Discovery Channel SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Civilization SD H264">
+    <display-name lang="pt">Discovery Civilization SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids SD H264">
+    <display-name lang="pt">Discovery Kids SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science SD H264">
+    <display-name lang="pt">Discovery Science SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Theater SD H264">
+    <display-name lang="pt">Discovery Theater SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo SD H264">
+    <display-name lang="pt">Discovery Turbo SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health [Brazil]">
+    <display-name lang="pt">Discovery Home &amp; Health [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel SD H264">
+    <display-name lang="pt">Disney Channel SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel HD H264">
+    <display-name lang="pt">Disney Channel HD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Junior SD H264">
+    <display-name lang="pt">Disney Junior SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney XD SD H264">
+    <display-name lang="pt">Disney XD SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! SD H264">
+    <display-name lang="pt">E! SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN SD H264">
+    <display-name lang="pt">ESPN SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN BRASIL SD H264">
+    <display-name lang="pt">ESPN BRASIL SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fish TV SD H264">
+    <display-name lang="pt">Fish TV SD H264</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Food Network SD H264">
+    <display-name lang="pt">Food Network SD H264</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox Life SD H264">
+    <display-name lang="pt">Fox Life SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox SD H264">
+    <display-name lang="pt">Fox SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports SD H264">
+    <display-name lang="pt">Fox Sports SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2 SD H264">
+    <display-name lang="pt">Fox Sports 2 SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Futura SD H264">
+    <display-name lang="pt">Futura SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX SD H264">
+    <display-name lang="pt">FX SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo RJ SD H264">
+    <display-name lang="pt">Globo RJ SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo SP SD H264">
+    <display-name lang="pt">Globo SP SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News SD H264">
+    <display-name lang="pt">Globo News SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob SD H264">
+    <display-name lang="pt">Gloob SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GNT SD H264">
+    <display-name lang="pt">GNT SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 SD H264">
+    <display-name lang="pt">H2 SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO SD H264">
+    <display-name lang="pt">HBO SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 SD H264">
+    <display-name lang="pt">HBO 2 SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family SD H264">
+    <display-name lang="pt">HBO Family SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus SD H264">
+    <display-name lang="pt">HBO Plus SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus E SD H264">
+    <display-name lang="pt">HBO Plus E SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature SD H264">
+    <display-name lang="pt">HBO Signature SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History Channel SD H264">
+    <display-name lang="pt">History Channel SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History Channel HD H264">
+    <display-name lang="pt">History Channel HD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Investigation Discovery SD H264">
+    <display-name lang="pt">Investigation Discovery SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="LifeTime SD H264">
+    <display-name lang="pt">LifeTime SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max SD H264">
+    <display-name lang="pt">Max SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max Prime SD H264">
+    <display-name lang="pt">Max Prime SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max UP SD H264">
+    <display-name lang="pt">Max UP SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix SD H264">
+    <display-name lang="pt">Megapix SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV SD H264">
+    <display-name lang="pt">MTV SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MultiShow SD H264">
+    <display-name lang="pt">MultiShow SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild SD H264">
+    <display-name lang="pt">Nat Geo Wild SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nat Geo SD H264">
+    <display-name lang="pt">Nat Geo SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick JR SD H264">
+    <display-name lang="pt">Nick JR SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelondeon SD H264">
+    <display-name lang="pt">Nickelondeon SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="OFF SD H264">
+    <display-name lang="pt">OFF SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount SD H264">
+    <display-name lang="pt">Paramount SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Premiere Clubes SD H264">
+    <display-name lang="pt">Premiere Clubes SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record SD H264">
+    <display-name lang="pt">Record SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Brasil SD H264">
+    <display-name lang="pt">Rede Brasil SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede TV SD H264">
+    <display-name lang="pt">Rede TV SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Vida SD H264">
+    <display-name lang="pt">Rede Vida SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT SP SD H264">
+    <display-name lang="pt">SBT SP SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Space SD H264">
+    <display-name lang="pt">Space SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV SD H264">
+    <display-name lang="pt">SporTV SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 SD H264">
+    <display-name lang="pt">SporTV 2 SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3 SD H264">
+    <display-name lang="pt">SporTV 3 SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal SD H264">
+    <display-name lang="pt">Studio Universal SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SYFY SD H264">
+    <display-name lang="pt">SYFY SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS SD H264">
+    <display-name lang="pt">TBS SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM SD H264">
+    <display-name lang="pt">TCM SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action SD H264">
+    <display-name lang="pt">Telecine Action SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult SD H264">
+    <display-name lang="pt">Telecine Cult SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine FUN SD H264">
+    <display-name lang="pt">Telecine FUN SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca SD H264">
+    <display-name lang="pt">Telecine Pipoca SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium SD H264">
+    <display-name lang="pt">Telecine Premium SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch SD H264">
+    <display-name lang="pt">Telecine Touch SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Terra Viva SD H264">
+    <display-name lang="pt">Terra Viva SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC SD H264">
+    <display-name lang="pt">TLC SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT SD H264">
+    <display-name lang="pt">TNT SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT HD H264">
+    <display-name lang="pt">TNT HD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Series SD H264">
+    <display-name lang="pt">TNT Series SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Tooncast SD H264">
+    <display-name lang="pt">Tooncast SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV [Brazil]">
+    <display-name lang="pt">TruTV [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV HD [Brazil]">
+    <display-name lang="pt">TruTV HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Brasil [Brazil]">
+    <display-name lang="pt">TV Brasil [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Brasil Central [Brazil]">
+    <display-name lang="pt">TV Brasil Central [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Câmara [Brazil]">
+    <display-name lang="pt">TV Câmara [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Corinthians [Brazil]">
+    <display-name lang="pt">TV Corinthians [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Cultura [Brazil]">
+    <display-name lang="pt">TV Cultura [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Escola [Brazil]">
+    <display-name lang="pt">TV Escola [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Espanha [Brazil]">
+    <display-name lang="pt">TV Espanha [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Gazeta [Brazil]">
+    <display-name lang="pt">TV Gazeta [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Globo [Brazil]">
+    <display-name lang="pt">TV Globo [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Justiça [Brazil]">
+    <display-name lang="pt">TV Justiça [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Rá-tim-bum [Brazil]">
+    <display-name lang="pt">TV Rá-tim-bum [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Senado [Brazil]">
+    <display-name lang="pt">TV Senado [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV União [Brazil]">
+    <display-name lang="pt">TV União [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV5 Monde [Brazil]">
+    <display-name lang="pt">TV5 Monde [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal Channel SD H264">
+    <display-name lang="pt">Universal Channel SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Vh1 [Brazil]">
+    <display-name lang="pt">Vh1 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Vh1 HD [Brazil]">
+    <display-name lang="pt">Vh1 HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="VH1 Mega Hits [Brazil]">
+    <display-name lang="pt">VH1 Mega Hits [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva [Brazil]">
+    <display-name lang="pt">Viva [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel SD H264">
+    <display-name lang="pt">Warner Channel SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Woohoo SD H264">
+    <display-name lang="pt">Woohoo SD H264</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20190901000000 +0100" stop="20190901235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+</tv>
